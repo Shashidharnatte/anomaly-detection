@@ -4,37 +4,34 @@ An anomaly detection system combining statistical and machine learning approache
 
 🌟 Features
 
-• Hybrid Detection Algorithm
+•  Hybrid Detection Algorithm
 
--Rolling Z-Score for real-time point anomaly detection
-
--Isolation Forest for complex pattern detection
-
--Seasonal adjustment using Fourier Transform
-
--Exponential Moving Average smoothing
+-  Rolling Z-Score for real-time point anomaly detection
+-  Isolation Forest for complex pattern detection
+-  Seasonal adjustment using Fourier Transform
+-  Exponential Moving Average smoothing
 
 
-• Interactive Dashboard
+•  Interactive Dashboard
 
--Real-time data visualization
+-  Real-time data visualization
 
--Live statistical metrics
+-  Live statistical metrics
 
--Responsive design
+-  Responsive design
 
--Automatic updates every 5 seconds
+-  Automatic updates every 5 seconds
 
 
-• Production-Ready Architecture
+•  Production-Ready Architecture
 
--Comprehensive error handling
+-  Comprehensive error handling
 
--Detailed logging system
+-  Detailed logging system
 
--Type hints and documentation
+-  Type hints and documentation
 
--Modular design
+-  Modular design
 
 
 
@@ -42,18 +39,18 @@ An anomaly detection system combining statistical and machine learning approache
 
 • Backend
 
--Python 3.8+
--Flask 2.0.1
--NumPy 1.21.0
--SciPy 1.7.1
--scikit-learn 1.0.1
+-  Python 3.8+
+-  Flask 2.0.1
+-  NumPy 1.21.0
+-  SciPy 1.7.1
+-  scikit-learn 1.0.1
 
 
 • Frontend
 
--HTML5/CSS3
--JavaScript (ES6+)
--Chart.js 3.7.0
+-  HTML5/CSS3
+-  JavaScript (ES6+)
+-  Chart.js 3.7.0
 
 
 
