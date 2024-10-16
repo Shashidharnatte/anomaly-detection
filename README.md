@@ -56,7 +56,7 @@ An anomaly detection system combining statistical and machine learning approache
 
 📁 Project Structure
 
-anomaly-detection/
+'anomaly-detection/
 ├── app/
 │   ├── __init__.py
 │   ├── anomaly_detector.py   # Core detection logic
@@ -78,6 +78,7 @@ anomaly-detection/
 ├── config.py               # Configuration settings
 ├── requirements.txt        # Project dependencies
 └── README.md              # Project documentation
+'
 
 
 🚀 Quick Start
