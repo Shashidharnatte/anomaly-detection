@@ -56,28 +56,8 @@ An anomaly detection system combining statistical and machine learning approache
 
 📁 Project Structure
 
-  anomaly-detection/
-  ├── app/
-  │   ├── __init__.py
-  │   ├── anomaly_detector.py   # Core detection logic
-  │   ├── data_generator.py     # Data simulation
-  │   └── utils.py             # Utility functions
-  ├── static/
-  │   ├── css/
-  │   │   └── style.css
-  │   └── js/
-  │       └── main.js
-  ├── templates/
-  │   └── index.html           # Dashboard template
-  ├── tests/
-  │   ├── __init__.py
-  │   ├── test_detector.py
-  │   └── test_generator.py
-  ├── .gitignore
-  ├── app.py                   # Flask application
-  ├── config.py               # Configuration settings
-  ├── requirements.txt        # Project dependencies
-  └── README.md              # Project documentation
+![image](https://github.com/user-attachments/assets/3c2fda42-5101-4230-923c-b79568cc2d6e)
+
 
 
 🚀 Quick Start
