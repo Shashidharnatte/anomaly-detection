@@ -7,24 +7,33 @@ An anomaly detection system combining statistical and machine learning approache
 • Hybrid Detection Algorithm
 
 -Rolling Z-Score for real-time point anomaly detection
+
 -Isolation Forest for complex pattern detection
+
 -Seasonal adjustment using Fourier Transform
+
 -Exponential Moving Average smoothing
 
 
 • Interactive Dashboard
 
 -Real-time data visualization
+
 -Live statistical metrics
+
 -Responsive design
+
 -Automatic updates every 5 seconds
 
 
 • Production-Ready Architecture
 
 -Comprehensive error handling
+
 -Detailed logging system
+
 -Type hints and documentation
+
 -Modular design
 
 
