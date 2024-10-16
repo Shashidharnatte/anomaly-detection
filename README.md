@@ -86,3 +86,10 @@ python app.py
 5. Open in browser
 
 http://localhost:5000 or http://10.109.2.12:5000/
+
+
+🌟 Demo Video
+
+https://github.com/user-attachments/assets/b926ef0e-1cc4-4464-ac94-7cfab1dc7648
+
+
